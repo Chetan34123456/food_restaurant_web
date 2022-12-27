@@ -78,5 +78,5 @@ const awards = [
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
 ];
-
-export default { wines, cocktails, awards };
+const temp = { wines, cocktails, awards }
+export default temp;

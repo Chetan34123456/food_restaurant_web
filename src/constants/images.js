@@ -20,8 +20,7 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
-
-export default e = {
+const e = {
   bg,
   chef,
   G,
@@ -45,3 +44,4 @@ export default e = {
   quote,
   gericht,
 };
+export default e;
